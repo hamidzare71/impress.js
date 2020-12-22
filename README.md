@@ -1,6 +1,14 @@
 impress.js
 ============
 
+
+Shiny-impress.js
+============
+make graph impress with R, igraph and shiny packages.
+A Shiny-based demo showing how to use the igraph library of R to make impress.js/jmpress presentations
+[link](http://4quantoss.github.io/shiny-impress.js/)
+
+
 [![CircleCI](https://circleci.com/gh/impress/impress.js.svg?style=svg)](https://circleci.com/gh/impress/impress.js)
 
 It's a presentation framework based on the power of CSS3 transforms and
